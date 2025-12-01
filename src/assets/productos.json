@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "nombre": "Delicias de Mediterranean para cachorros – 800gr",
+        "precio": 6.83,
+        "stock":10,
+        "categoria":"Perro",
+        "detalles": "Carne fresca 50% (carne de pollo, jamón serrano, hígado de cerdo, carne de cordero, carne de buey), leche en polvo (mín. 13%), salmón y atún (mín. 10%), cereales (arroz min. 6%), glicerina, glucosa USP",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/DEPU.jpg",
+        "envio": false
+    },
+    {
+        "id":2,
+        "nombre": "Dolina Noteci Premium rico en bacalao con brocoli – 500gr",
+        "precio": 4.08,
+        "stock":10,
+        "categoria":"Perro",
+        "detalles": "ternera 30% (pulmones, corazón, estómago, carne, ubres), bacalao 25%, carne de cerdo 20% (carne, hígado, riñones, esófago) caldo, brócoli 4%, huevo 3%, minerales, aceite de linaza 02%, semillas de llantén de arena 0,2%, albahaca deshidratada 0,01%.",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/5902921300816.jpg",
+        "envio": false
+    },
+    {
+        "id":3,
+        "nombre": "Dolina Noteci Premium Gatos esterilizados rico en buey – 85gr",
+        "precio": 1.95,
+        "stock":10,
+        "categoria":"Gato",
+        "detalles": "Carne fresca 50% (carne de pollo, jamón serrano, hígado de cerdo, carne de cordero, carne de buey), leche en polvo (mín. 13%), salmón y atún (mín. 10%), cereales (arroz min. 6%), glicerina, glucosa USP",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/5902921383208.jpg",
+        "envio": false
+    },
+    {
+        "id":4,
+        "nombre": "Alimento Cunipic para Canarios – 1kg",
+        "precio": 3.61,
+        "stock":10,
+        "categoria":"Aves",
+        "detalles": "Alimento Cunipic para Canarios – 1kg",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/CCCCANARIES.jpg",
+        "envio": false
+    },
+    {
+        "id":5,
+        "nombre": "Alimento Cunipic para Adult rabbit TOY",
+        "precio": 3.61,
+        "stock":10,
+        "categoria":"Roedores",
+        "detalles": "2,5 Kilogramos",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/TOYADULT.jpg",
+        "envio": false
+    },
+    {
+        "id":6,
+        "nombre": "Perfect Care Intestinal – 400gr",
+        "precio": 3.23,
+        "stock":10,
+        "categoria":"Perro",
+        "detalles": "El alimento está destinado a perros: – propenso al estreñimiento, diarrea, – padecimiento de trastornos digestivos con aparición de gases, – necesidad de una dieta fácilmente digerible, – con trastornos pancreáticos.",
+        "foto": "https://golfitospetshop.es/wp-content/uploads/5902921302315.jpg",
+        "envio": false
+    }
+
+]
